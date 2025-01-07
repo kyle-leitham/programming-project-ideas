@@ -12,11 +12,6 @@ Feel free to contribute more ideas!
 
 ## 🍼 Novice
 
-### Hello World Program
-A basic program that prints "Hello, World!" to the console.
-
-*Why Novice?* It's the most basic program you can write!
-
 ### Basic Counter
 A program that increments a counter based on user input.
 
