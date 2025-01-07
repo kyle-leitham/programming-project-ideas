@@ -2,6 +2,8 @@
 
 Feel free to contribute more ideas!
 
+![Gemini_Generated_Image_a70gcna70gcna70g](https://github.com/user-attachments/assets/7a4cedb1-8167-47b3-9083-c19af43b779c)
+
 # 🖹 Table of Contents
 1. [Novice](#novice)
 2. [Intermediate](#intermediate)
