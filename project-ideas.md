@@ -2,6 +2,12 @@
 
 Feel free to contribute more ideas!
 
+# Table of Contents
+1. [Novice](#novice)
+2. [Intermediate](#intermediate)
+3. [Advanced](#advanced)
+4. [Expert](#expert)
+
 ## Novice
 
 ### Hello World Program
