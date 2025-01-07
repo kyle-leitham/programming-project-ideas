@@ -1,14 +1,14 @@
-# Programming Project Ideas
+# 💡 Programming Project Ideas 💡 💻
 
 Feel free to contribute more ideas!
 
-# Table of Contents
+# 🖹 Table of Contents
 1. [Novice](#novice)
 2. [Intermediate](#intermediate)
 3. [Advanced](#advanced)
 4. [Expert](#expert)
 
-## Novice
+## 🍼 Novice
 
 ### Hello World Program
 A basic program that prints "Hello, World!" to the console.
@@ -42,7 +42,7 @@ A game where the computer randomly selects a number, and the player guesses unti
 
 ---
 
-## Intermediate
+## 🤔 Intermediate
 ### Rock Paper Scissors Game
 A simple game where the player plays against the computer.
 
@@ -121,7 +121,7 @@ A game where the player explores different locations and makes choices that affe
 
 ---
 
-## Advanced
+## 🚀 Advanced
 ### Markdown Editor
 A basic online tool to write and preview Markdown files in real-time.
 
@@ -154,7 +154,7 @@ Build a tool that converts Markdown files into fully formatted HTML.
 
 ---
 
-## Expert
+## 🧠 Expert
 ### Collaborative Whiteboard
 An online whiteboard for real-time drawing and team collaboration.
 
