@@ -113,7 +113,7 @@ A customizable app to create and take quizzes, with scoring functionality.
 ### Habit Tracker
 Tracks daily habits with reminders and progress visualization.
 
-*Why Advanced?* Combines data persistence, scheduling, and visual representation.
+*Why Intermediate?* Combines data persistence, scheduling, and visual representation.
 
 ### Text-based Adventure Game
 
