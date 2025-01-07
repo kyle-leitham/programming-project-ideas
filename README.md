@@ -2,7 +2,7 @@
 
 Feel free to contribute more ideas!
 
-![Gemini_Generated_Image_a70gcna70gcna70g](https://github.com/user-attachments/assets/7a4cedb1-8167-47b3-9083-c19af43b779c)
+![cat_on_laptop](https://github.com/user-attachments/assets/c856f3ff-08f0-4084-9542-ebc623e0ec5d)
 
 # 🖹 Table of Contents
 1. [Novice](#novice)
